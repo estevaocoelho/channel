@@ -8,3 +8,5 @@ http://edge.aovivoplayer.ml/hls/s:45.32.217.66/megapix_a6f16ab4_1c215423b5833df5
 #EXTINF:-1 tvg-logo="" group-title="Anime" ,ESPN BRASIL HD 1
 https://live.multicanais.com/live/telecinefunsd/video.m3u8?md5=840iUWUoM8XraoI8T6TMZw&expires=1567605618
 
+#EXTINF:-1 tvg-logo="" group-title="Anime" ,SPORT TV
+https://live.multicanais.com/live/sportvhd/video.m3u8
