@@ -5,3 +5,6 @@ http://edge.aovivoplayer.ml/hls/s:45.32.217.66/cartoonnetwork_511a418e_e37a85ec2
 #EXTINF:-1 tvg-logo="" group-title="Anime" ,ESPN BRASIL HD
 https://live.multicanais.com/live/espnbrasilhd/video.m3u8?md5=qjs-xeaMcVilHioZ-T9F6Q&expires=1567605329
 
+#EXTINF:-1 tvg-logo="" group-title="Anime" ,ESPN BRASIL HD 1
+https://live.multicanais.com/live/telecinefunsd/video.m3u8?md5=840iUWUoM8XraoI8T6TMZw&expires=1567605618
+
