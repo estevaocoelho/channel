@@ -1,0 +1,141 @@
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a4/A%26E_HD.png" group-title="tv ac" ,A&E
+http://hvod.imirun.net:8080/A&E-HD/index.m3u8
+
+
+#EXTINF:-1 tvg-logo="http://t.likeiptv.com/cinemaxhd.png" group-title="tv ac" ,CINEMAX-HD
+http://playback.imirun.net:8080//Cinemax-HD/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/2015_Discovery_theater_HD_logo.svg/1280px-2015_Discovery_theater_HD_logo.svg.png" group-title="tv ac" , DiscoveryTheater-HD
+http://playback.imirun.net:8080//DiscoveryTheater-HD/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/6/6d/Discovery_Science_Canada_2011.PNG" group-title="tv ac" , DiscoveryScienceHD
+http://playback.imirun.net:8080//DiscoveryScienceHD/tracks-v1a1/mono.m3u8
+
+
+#EXTINF:-1 tvg-logo="https://www.multichannel.com/.image/t_share/MTU0MDY0OTk5NTEwMzg1NzQ2/fx-logopng.png" group-title="tv ac" ,FX
+http://hvod.imirun.net:8080/FX-HD/index.m3u8
+
+
+#EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-uwY4QbabpWw/WnO2JN43WnI/AAAAAAAAJP0/1VNI7nmxVIYCgO5XGyiblDbusbQaor8PgCK4BGAYYCw/s1600/foxpremium1.jpg" group-title="tv ac" ,FOX PREMIUM 1
+http://hvod.imirun.net:8080/Fox-Premium-1-HD/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://skybrasil.online/img/destaques/7edcb60bc25a642fe2bcfd849d581d60-1505572999.png" group-title="tv ac" ,FOX PREMIUM 2
+http://hvod.imirun.net:8080/Fox-Premium-2-HD/index.m3u8
+
+
+#EXTINF:-1 tvg-logo="https://www.stickpng.com/assets/images/5842f04ea6515b1e0ad75b14.png" group-title="tv ac" ,FOX
+http://hvod.imirun.net:8080/FOX-HD/index.m3u8
+
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a4/GNT_logo-roxo.svg" group-title="tv ac" ,GNT
+http://playback.imirun.net:8080//GNT-HD/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-logo="http://2.bp.blogspot.com/-kQIypodyTFw/U8c6bKN2dkI/AAAAAAAAjNs/Xsv5YhI6Z6A/s1600/H2_1.png" group-title="tv ac" ,HISTORY CHANNEL 2
+http://playback.imirun.net:8080//H2-HD/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-logo="https://logodownload.org/wp-content/uploads/2018/03/history-channel-logo-1.png" group-title="tv ac" ,HISTORY CHANNEL
+http://playback.imirun.net:8080//HistoryChannel_HD/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.tvmagazine.com.br/imagens/icones/600/hbo2b.png" group-title="tv ac" ,HBO2
+http://playback.imirun.net:8080//HBO2/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-logo="https://logodownload.org/wp-content/uploads/2017/04/hbo-logo.png" group-title="tv ac" ,HBO
+http://hvod.imirun.net:8080/HBO-HD/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.pinimg.com/originals/1d/93/e1/1d93e121cf3b05bc0d8b7468e7c9da1c.png" group-title="tv ac" ,HBO FAMILY
+http://playback.imirun.net:8080//HBO-Family-HD/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e6/Maxup.png" group-title="tv ac" ,MAX UP
+http://playback.imirun.net:8080//MaxUpHD/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/15/MAX_Prime.png" group-title="tv ac" ,MAX PRIME
+http://playback.imirun.net:8080//MaxPrime*eHD/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.bastidoresdatv.com.br/wp-content/uploads/2015/01/Megapix-hd-brasil.jpg" group-title="tv ac" ,MEGA PIX
+http://hvod.imirun.net:8080/MegapixHD/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/22/Nat_Geo_HD.png" group-title="tv ac" ,NATIONAL GEOGRAPHIC
+http://hvod.imirun.net:8080/National-Geographic-HD/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d6/Nat_Geo_Wild_logo.png" group-title="tv ac" ,NATIONAL GEOGRAPHIC WILD
+http://playback.imirun.net:8080//NatGeoWild-HD/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-logo="https://futebolplay.net/wp-content/uploads/2019/08/premiere-clubes.png" group-title="tv ac" ,PREMIERE CLUBES HD
+http://hvod.imirun.net:8080/Premiere-Clubes-HD/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://multicanais.com/wp-content/uploads/2019/05/Premiere-2-.png" group-title="tv ac" ,PREMIERE 2
+http://hvod.imirun.net:8080/Premiere-2-HD/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://multicanais.com/wp-content/uploads/2019/05/Assistir-Premiere-3-online-ao-vivo.png" group-title="tv ac" ,PREMIERE 3
+http://hvod.imirun.net:8080/Premiere-3-HD/index.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="tv ac" ,PREMIERE 4
+http://hvod.imirun.net:8080/Premiere-4-HD/index.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="tv ac" ,PREMIERE 5
+http://hvod.imirun.net:8080/Premiere-5-HD/index.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="tv ac" ,PREMIERE 6
+http://hvod.imirun.net:8080/Premiere-6-HD/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/bd/TNT_%28TV_Channel_Logo%29.png" group-title="tv ac" ,TNT
+http://hvod.imirun.net:8080/TNT-HD/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://logodownload.org/wp-content/uploads/2018/11/canal-space-logo.png" group-title="tv ac" ,SPACE
+http://hvod.imirun.net:8080/SpaceHD/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/42/Sony_Channel_logo.svg/902px-Sony_Channel_logo.svg.png" group-title="tv ac" ,SONY
+http://hvod.imirun.net:8080/canalsony-hd/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://vignette.wikia.nocookie.net/logosfake/images/8/83/TBS_HD.png/revision/latest?cb=20140519102757" group-title="tv ac" ,TBS HD
+http://playback.imirun.net:8080//TBSHD/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/abrahamcarvalhoo/playtv/master/logos/tc_action.png" group-title="tv ac" ,TELECINE ACTION
+http://playback.imirun.net:8080//TelecineActionHD/tracks-v1a1/mono.m3u8
+
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/2a/Telecine_Pipoca.png" group-title="tv ac" ,TELECINE PIPOCA
+http://playback.imirun.net:8080//TelecinePipocaHD/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3b/Telecine_Cult.png" group-title="tv ac" ,TELECINE CULT
+http://playback.imirun.net:8080//TelecineCult/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-logo="https://cdn.mitvstatic.com/channels/br_telecine-fun-hd_m.png" group-title="tv ac" ,TELECINE FUN
+http://playback.imirun.net:8080//Telecine-Fun-HD/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-logo="http://logowiki.net/wp-content/uploads/2018/01/Telecine-Premium-Logo-1-9853.png" group-title="tv ac" ,TELECINE PREMIUM
+http://playback.imirun.net:8080//TelecinePremium/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/06/Logo_Studio_Universal.svg/606px-Logo_Studio_Universal.svg.png" group-title="tv ac" ,STUDIO UNIVERSAL
+http://playback.imirun.net:8080//StudioUniversal/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/abrahamcarvalhoo/playtv/master/logos/tc_touch.png" group-title="tv ac" ,TELECINE TOUCH
+http://playback.imirun.net:8080//TelecineTouch/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/af/TLC-Logo_2016.png" group-title="tv ac" ,TLC
+http://playback.imirun.net:8080//TLC/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-logo="http://logo-load.com/uploads/posts/2016-04/1459524851_tcm-logo.png" group-title="tv ac" ,TCM
+http://playback.imirun.net:8080//TCM/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/TBS_logo_2016.svg/1024px-TBS_logo_2016.svg.png" group-title="tv ac" ,TBS
+http://playback.imirun.net:8080//TBS/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/54/TV_Gazeta_logo.svg/1280px-TV_Gazeta_logo.svg.png" group-title="tv ac" ,TV GAZETA
+http://playback.imirun.net:8080//TVGazeta/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.pngfind.com/pngs/m/638-6383779_warner-channel-logo-png-transparent-warner-channel-png.png" group-title="tv ac" ,WARNER CHANNEL
+http://hvod.imirun.net:8080/Warner-Channel-HD/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://www.zoomoo.tv.br/wp-content/themes/kids-world/images/logo.png" group-title="tv ac" ,ZOOMOO
+http://playback.imirun.net:8080//Zoomoo/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-logo="https://s2.glbimg.com/ylLqPuBGeyaSBx8aeHbdEAKWfFU=/s3.glbimg.com/v1/AUTH_180b9dd048d9434295d27c4b6dadc248/media_kit/77/a1/b8fd82699208eb566d9605652bd3.png" group-title="tv ac" ,VIVA
+http://playback.imirun.net:8080//VIVA/tracks-v1a1/mono.m3u8
+
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3e/Animal_Planet.png/800px-Animal_Planet.png" group-title="tv ac" ,ANIMAL PLANET
+http://playback.imirun.net:8080//AnimalPlanet-HD/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-logo="https://4.bp.blogspot.com/-o8m22M7KWig/XHr0g_GTHRI/AAAAAAABSmo/4Y1PIGDLeUQYq7va-Q1vINJj9tUsu9-VwCPcBGAYYCw/s1600/CC_Logo_LockUp_Horizontal_TM__1_Color_Blk-01.png" group-title="tv ac" ,COMEDY CENTRAL
+http://playback.imirun.net:8080//ComedyCentral/tracks-v1a1/mono.m3u8
