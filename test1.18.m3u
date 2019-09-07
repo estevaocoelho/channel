@@ -1,5 +1,4 @@
 --TV ABERTA--
-GLOBO HD
 
 #EXTINF:-1 tvg-logo="" tvg-id="0" group-title="CANAIS",GLOBO SP HD
 http://edge.aovivoplayer.ml/hls/s:95.216.15.44:81/globosphd_3a69aa1b_dc4246b8c55df7463d51905e6d55a5b9497c3349/playlist.m3u8
@@ -22,10 +21,6 @@ https://tvweb.xyz:25463/live/Milao/Juventus/2.m3u8
 
 #EXTINF:-1 tvg-logo="" tvg-id="0" group-title="CANAIS",REDE TV SD
 https://evpp.mm.uol.com.br/redetv1/redetv1/chunklist_w2067150218.m3u8
-
-
-
---FILMES E SERIES--
 
 #EXTINF:-1 tvg-logo="" tvg-id="0" group-title="CANAIS", TC PIPOCA
 http://edge.aovivoplayer.ml/hls/s:45.32.217.66/telecinepipoca_fd937516_046568f81f970f5d70815856855dd8c5d35ee2c5/410p/chunklist.m3u8
@@ -105,13 +100,6 @@ http://edge.aovivoplayer.ml/hls/s:155.138.226.22/axn_cb7a1d77_7a9d499be3b44a58e1
 #EXTINF:-1 tvg-logo="" tvg-id="0" group-title="CANAIS", UNIVERSAL CHANNEL
 http://edge.aovivoplayer.ml/hls/s:155.138.227.156/universalchannel_8290abc6_ac25e4cd89ac72650d002b646825f6940778d23e/360p/chunklist.m3u8
 
-
-
-
-
---DOCUMENTARIOS--
-
-
 #EXTINF:-1 tvg-logo="" tvg-id="0" group-title="CANAIS", ANIMAL PLANET
 http://edge.aovivoplayer.ml/hls/s:155.138.227.156/animalplanet_e114c448_9e9c6c2485ab99f5d7a6a852075e3908950b6746/480p_1070kbit/chunklist.m3u8
 
@@ -146,9 +134,6 @@ http://edge.aovivoplayer.ml/hls/s:155.138.226.22/gnt_c439c60b_c0bd0331eed97e9578
 
 #EXTINF:-1 tvg-logo="" tvg-id="0" group-title="CANAIS", COMBAT
 http://edge.aovivoplayer.ml/hls/s:95.216.15.44:81/combate_ac3478d6_75e956a8e6a68965d17b07036aea252c819c3421/playlist.m3u8
-
-
---DESENHOS--
 
 
 #EXTINF:-1 tvg-logo="" tvg-id="0" group-title="CANAIS", Cartoon Gospel
