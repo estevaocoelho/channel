@@ -1,4 +1,4 @@
---TV ABERTA--
+#EXTM3U
 
 #EXTINF:-1 tvg-logo="" tvg-id="0" group-title="CANAIS",GLOBO SP HD
 http://edge.aovivoplayer.ml/hls/s:95.216.15.44:81/globosphd_3a69aa1b_dc4246b8c55df7463d51905e6d55a5b9497c3349/playlist.m3u8
