@@ -1,8 +1,6 @@
 #EXTM3U
 
 
-GLOBO HD
-
 #EXTINF:-1 tvg-logo="" tvg-id="0" group-title="CANAIS",GLOBO SP HD
 http://edge.aovivoplayer.ml/hls/s:95.216.15.44:81/globosphd_3a69aa1b_0bbfe35ca365df8c792c27d32afede989f9275fc/playlist.m3u8
 
@@ -134,12 +132,6 @@ http://edge.aovivoplayer.ml/hls/s:45.32.217.66/tcm_13b72490_c93abbe7fd33d1aec4aa
 
 #EXTINF:-1 tvg-logo="" tvg-id="0" group-title="CANAIS", VIVA
 http://edge.aovivoplayer.ml/hls/s:95.216.15.44:81/viva_5d00f2c6_61d608f7ad1974c8047c0b2843ea34528528b6a6/playlist.m3u8
-
-
-
-
-
-
 
 
 #EXTINF:-1 tvg-logo="" tvg-id="0" group-title="CANAIS", ANIMAL PLANET
