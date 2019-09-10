@@ -1,6 +1,6 @@
 #EXTM3U
 
-#EXTINF:-1 tvg-logo="" tvg-id="0" group-title="CANAIS",GLOBO SP HD
+##EXTINF:-1 tvg-logo="" tvg-id="0" group-title="CANAIS",GLOBO SP HD
 http://edge.aovivoplayer.ml/hls/s:95.216.15.44:81/globosphd_3a69aa1b_dc4246b8c55df7463d51905e6d55a5b9497c3349/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="" tvg-id="0" group-title="CANAIS",GLOBO SP SD
@@ -135,7 +135,6 @@ http://edge.aovivoplayer.ml/hls/s:155.138.226.22/gnt_c439c60b_c0bd0331eed97e9578
 #EXTINF:-1 tvg-logo="" tvg-id="0" group-title="CANAIS", COMBAT
 http://edge.aovivoplayer.ml/hls/s:95.216.15.44:81/combate_ac3478d6_75e956a8e6a68965d17b07036aea252c819c3421/playlist.m3u8
 
-
 #EXTINF:-1 tvg-logo="" tvg-id="0" group-title="CANAIS", Cartoon Gospel
 https://stmv1.srvstm.com/gospelcartoon/gospelcartoon/playlist.m3u8?wowzasessionid=495096105
 
@@ -143,26 +142,20 @@ https://stmv1.srvstm.com/gospelcartoon/gospelcartoon/playlist.m3u8?wowzasessioni
 #EXTINF:-1 tvg-logo="" tvg-id="0" group-title="CANAIS", Cartoon NetWork
 http://edge.aovivoplayer.ml/hls/s:155.138.227.45/cartoonnetwork_511a418e_919f62e2df4507b1026090d244fe5ba636a0e3eb/410p/chunklist.m3u8
 
-
 #EXTINF:-1 tvg-logo="" tvg-id="0" group-title="CANAIS", DISNEY CHANNEL
 http://edge.aovivoplayer.ml/hls/s:155.138.227.156/disneychannel_a9334987_59b9513140893606731cd60d759b71630ed6551a/410p/chunklist.m3u8
-
 
 #EXTINF:-1 tvg-logo="" tvg-id="0" group-title="CANAIS", DISNEY XD
 http://edge.aovivoplayer.ml/hls/s:155.138.227.156/disneyxd_d094700e_ca2cc8e163e38a30e920b7c0f9ea87fb09bdf6eb/playlist.m3u8
 
-
 #EXTINF:-1 tvg-logo="" tvg-id="0" group-title="CANAIS", DISNEY JUNIOR
 http://edge.aovivoplayer.ml/hls/s:155.138.227.156/disneyjunior_572e2073_ba3f4fe98ff0de287a4072c8cf94b53127ccaf7c/playlist.m3u8
-
 
 #EXTINF:-1 tvg-logo="" tvg-id="0" group-title="CANAIS", NICK JR
 http://edge.aovivoplayer.ml/hls/s:155.138.226.22/nickjr_54ceb912_1e4850b0f47cbef9fa1fe06cda4e0859c1271caa/playlist.m3u8
 
-
 #EXTINF:-1 tvg-logo="" tvg-id="0" group-title="CANAIS", NICKELONDEON
 http://edge.aovivoplayer.ml/hls/s:45.32.217.66/nickelodeon_bc33ea4e_aa8ab2dc58335bfbf53b424219fc87e9ab17839a/410p_700kbit/chunklist.m3u8
-
 
 #EXTINF:-1 tvg-logo="" tvg-id="0" group-title="CANAIS", DISCOVERY KIDS
 http://edge.aovivoplayer.ml/hls/s:45.32.217.66/discoverykids_80e28a51_89f66d5300d066156a84f644adf820e37a125efb/playlist.m3u8
@@ -172,6 +165,9 @@ http://edge.aovivoplayer.ml/hls/s:155.138.226.22/gloob_04f1241e_709ec23117173b92
 
 #EXTINF:-1 tvg-logo="" tvg-id="0" group-title="CANAIS", TOONCAST
 http://edge.aovivoplayer.ml/hls/s:155.138.226.22/tooncast_8effee40_a8151753e0f0af37183798e9ff9bf623b71e729e/480p_700kbit/chunklist.m3u8
+
+
+
 
 
 
