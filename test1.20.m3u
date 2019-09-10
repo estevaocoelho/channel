@@ -1,126 +1,178 @@
 #EXTM3U
 
-##EXTINF:-1 tvg-logo="" tvg-id="0" group-title="CANAIS",GLOBO SP HD
-http://edge.aovivoplayer.ml/hls/s:95.216.15.44:81/globosphd_3a69aa1b_dc4246b8c55df7463d51905e6d55a5b9497c3349/playlist.m3u8
+
+GLOBO HD
+
+#EXTINF:-1 tvg-logo="" tvg-id="0" group-title="CANAIS",GLOBO SP HD
+http://edge.aovivoplayer.ml/hls/s:95.216.15.44:81/globosphd_3a69aa1b_0bbfe35ca365df8c792c27d32afede989f9275fc/playlist.m3u8
+
 
 #EXTINF:-1 tvg-logo="" tvg-id="0" group-title="CANAIS",GLOBO SP SD
-http://edge.aovivoplayer.ml/hls/s:95.216.15.44:81/globosp_cfe21c68_09b26e0009730c5c97d4d87f0835c166926b5efb/playlist.m3u8
+http://edge.aovivoplayer.ml/hls/s:95.216.15.44:81/globosp_cfe21c68_f1fa9da3cf780c14f6c4d4bf98739ab7407421ce/playlist.m3u8
 
 
 #EXTINF:-1 tvg-logo="" tvg-id="0" group-title="CANAIS",RECORD SD
-http://edge.aovivoplayer.ml/hls/s:155.138.226.22/record_3554dce5_840cdaefc0245cc7088d0c481b642c812672daf9/410p/chunklist.m3u8
+http://edge.aovivoplayer.ml/hls/s:155.138.227.156/record_3554dce5_bb05fba5099853dd30b477e58dc350288b389b20/410p/chunklist.m3u8
 
-#EXTINF:-1 tvg-logo="" tvg-id="0" group-title="CANAIS",RECORD NEWS HD
+###EXTINF:-1 tvg-logo="" tvg-id="0" group-title="CANAIS",RECORD NEWS HD
 https://59f2354c05961.streamlock.net:1443/guaratv/_definst_/guaratv/chunklist_w1694558647.m3u8
 
-#EXTINF:-1 tvg-logo="" tvg-id="0" group-title="CANAIS",BAND NEWS HD
+#EXTINF:-1 tvg-logo="" tvg-id="0" group-title="CANAIS",BAND
+http://edge.aovivoplayer.ml/hls/s:95.216.15.44:81/band_49e3d046_7ac0676f4f8bc277a078f6b80026fb1f5db59199/playlist.m3u8
+
+
+####EXTINF:-1 tvg-logo="" tvg-id="0" group-title="CANAIS",BAND NEWS HD
 http://edge.aovivoplayer.ml/hls/s:95.216.15.44:81/band_49e3d046_5d5991a632dbfff939bf0b4ac48acf1b9aa64057/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="" tvg-id="0" group-title="CANAIS",SBT HD
-https://tvweb.xyz:25463/live/Milao/Juventus/2.m3u8
+#EXTINF:-1 tvg-logo="" tvg-id="0" group-title="CANAIS",SBT SD
+http://edge.aovivoplayer.ml/hls/s:155.138.227.156/sbtsp_2a5ac580_ed7bafee602db6e87ac144f231c2c20539fc7809/410p/chunklist.m3u8
 
 #EXTINF:-1 tvg-logo="" tvg-id="0" group-title="CANAIS",REDE TV SD
-https://evpp.mm.uol.com.br/redetv1/redetv1/chunklist_w2067150218.m3u8
+http://edge.aovivoplayer.ml/hls/s:95.216.15.44:81/redetv_45cbe19f_48daca032ce27f61011568848bcfbd839f80bb76/270p/chunklist.m3u8
+
+
+
 
 #EXTINF:-1 tvg-logo="" tvg-id="0" group-title="CANAIS", TC PIPOCA
-http://edge.aovivoplayer.ml/hls/s:45.32.217.66/telecinepipoca_fd937516_046568f81f970f5d70815856855dd8c5d35ee2c5/410p/chunklist.m3u8
+http://edge.aovivoplayer.ml/hls/s:155.138.227.156/telecinepipoca_fd937516_f24fdcb8714c8c6758c9ad66883d1dd62689f562/410p/chunklist.m3u8
 
 #EXTINF:-1 tvg-logo="" tvg-id="0" group-title="CANAIS", TC PIPOCA HD
-http://edge.aovivoplayer.ml/hls/s:95.216.15.44:81/telecinepipocahd_ae7329c9_6a3be3e2426040fc237d86b9da0c91c3c82ccbd5.m3u8
+http://edge.aovivoplayer.ml/hls/s:95.216.15.44:81/telecinepipocahd_ae7329c9_04f44a2b3092599fae8d0349e6d97d75a491c8f5.m3u8
 
 #EXTINF:-1 tvg-logo="" tvg-id="0" group-title="CANAIS", TC FUN
-http://edge.aovivoplayer.ml/hls/s:155.138.227.45/telecinefun_ae1e7198_0857a12204625ea8faf6e58434dec90340c30b7c/410p/chunklist.m3u8
+http://edge.aovivoplayer.ml/hls/s:155.138.227.156/telecinefun_ae1e7198_8f3afbd7c193641deac92a1e299be7aa3758e931/410p/chunklist.m3u8
 
 #EXTINF:-1 tvg-logo="" tvg-id="0" group-title="CANAIS", TC TOUCH
-http://edge.aovivoplayer.ml/hls/s:155.138.227.156/telecinetouch_74cbd2c2_6a80d6cf37d5c47ba75f281cb8d61f71b8343c93/480p/chunklist.m3u8
+http://edge.aovivoplayer.ml/hls/s:45.32.217.66/telecinetouch_74cbd2c2_8c22809dafd5ecc13add8d9db548eb4620713e56/480p/chunklist.m3u8
 
 #EXTINF:-1 tvg-logo="" tvg-id="0" group-title="CANAIS", TC PREMIUM
-http://edge.aovivoplayer.ml/hls/s:45.32.217.66/telecinepremium_a929eb33_30620061f61734b25db61f582460ace099af1555/480p/chunklist.m3u8
+http://edge.aovivoplayer.ml/hls/s:155.138.227.45/telecinepremium_a929eb33_6ea4156eae8522eabe17adfc89f2d36abf80f286/480p/chunklist.m3u8
 
-#EXTINF:-1 tvg-logo="" tvg-id="0" group-title="CANAIS", TC PREMIUM HD
+###EXTINF:-1 tvg-logo="" tvg-id="0" group-title="CANAIS", TC PREMIUM HD
 http://edge.aovivoplayer.ml/hls/s:95.216.15.44:81/telecinepremiumhd_a8a2b30f_2dfc3e04e065ee758362fbc6d5029d993bed23b0/playlist.m3u8
 
 
 #EXTINF:-1 tvg-logo="" tvg-id="0" group-title="CANAIS", TC ACTION
-http://edge.aovivoplayer.ml/hls/s:155.138.226.22/telecineaction_be057d4c_53af55e2ad6c891bba46c7c252f9d0fda68b5c09/480p_720kbit/chunklist.m3u8
+http://edge.aovivoplayer.ml/hls/s:155.138.227.156/telecineaction_be057d4c_cb48abbd146eff1281847e7a3b31a568e683cc6a/480p/chunklist.m3u8
 
 
 #EXTINF:-1 tvg-logo="" tvg-id="0" group-title="CANAIS", MEGAPIX
-http://edge.aovivoplayer.ml/hls/s:155.138.226.22/megapix_a6f16ab4_1dcf75d18e388410b90954a6da342f341200110c/410p/chunklist.m3u8
+http://edge.aovivoplayer.ml/hls/s:155.138.227.156/megapix_a6f16ab4_b92a62f3c56bc421413b70c9043162d96b2fb906/410p/chunklist.m3u8
 
 #EXTINF:-1 tvg-logo="" tvg-id="0" group-title="CANAIS", MAX UP
-http://edge.aovivoplayer.ml/hls/s:95.216.15.44:81/maxup_ce09b127_f98191592c240f3152e7d15131d8bd0f1747ace3/playlist.m3u8
+http://edge.aovivoplayer.ml/hls/s:95.216.15.44:81/maxup_ce09b127_05870e6e348e2bcb1d121c3b66536ae22d0ab62c/playlist.m3u8
 
 
-#EXTINF:-1 tvg-logo="" tvg-id="0" group-title="CANAIS", CINEMAX
-http://edge.aovivoplayer.ml/hls/s:45.32.217.66/cinemax480p_22d200f8_f1b358995e13cb3f119db1cb21b5951f1b8ff8a9/410p/chunklist.m3u8
+#EXTINF:-1 tvg-logo="" tvg-id="0" group-title="CANAIS", CINEMAX 480P
+http://edge.aovivoplayer.ml/hls/s:155.138.227.45/cinemax480p_22d200f8_0e61a98810ae843028f97f381a32f7078f509702/410p/chunklist.m3u8
+
+#EXTINF:-1 tvg-logo="" tvg-id="0" group-title="CANAIS", CINEMAX 720P
+http://edge.aovivoplayer.ml/hls/s:95.216.15.44:81/cinemax720p_49117359_a205c9331aa9fb549010dfea45cf99fcacb0dae9.m3u8
+
 
 #EXTINF:-1 tvg-logo="" tvg-id="0" group-title="CANAIS", MAXPRIME HD
-http://edge.aovivoplayer.ml/hls/s:95.216.15.44:81/maxprime_9c676e00_87f616f0dc956307d1f16406c177ee0c0c0742f2/playlist.m3u8
+http://edge.aovivoplayer.ml/hls/s:95.216.15.44:81/maxprime_9c676e00_28d08f627a72ee4e38e22886c9af4fb79ea1eea3/playlist.m3u8
 
+
+#EXTINF:-1 tvg-logo="" tvg-id="0" group-title="CANAIS", HBO HD
+http://edge.aovivoplayer.ml/hls/s:95.216.15.44:81/hbo1080p_63266754_10b0c9fc5ac965c8395a06204d081254be45e1c0/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="" tvg-id="0" group-title="CANAIS", HBO 2 HD
-http://edge.aovivoplayer.ml/hls/s:95.216.15.44:81/hbo2720p_05a53e36_a23898469673fb40fa4c111ef4f5b4739eaa8597.m3u8
+http://edge.aovivoplayer.ml/hls/s:95.216.15.44:81/hbo2720p_05a53e36_a512fc51728fe9575baff0ae48b9c5a5101edca4.m3u8
 
 #EXTINF:-1 tvg-logo="" tvg-id="0" group-title="CANAIS", HBO SIGNATURE 720P
-http://edge.aovivoplayer.ml/hls/s:95.216.15.44:81/hbosignature720p_fa1a6512_d40469d04545ce58345a1a520f20ca9de90dc082.m3u8
+http://edge.aovivoplayer.ml/hls/s:95.216.15.44:81/hbosignature720p_fa1a6512_041ef4282f7f349d0e0f6c90b9e090c69be50774.m3u8
 
 
-#EXTINF:-1 tvg-logo="" tvg-id="0" group-title="CANAIS", HBO PLUS
-http://edge.aovivoplayer.ml/hls/s:95.216.15.44:81/hboplus480p_17820ac1_20bcaf85f08d183a21184d10ff51888e5625ad1c/playlist.m3u8
+#EXTINF:-1 tvg-logo="" tvg-id="0" group-title="CANAIS", HBO PLUS 480P
+http://edge.aovivoplayer.ml/hls/s:95.216.15.44:81/hboplus480p_17820ac1_1481e4ac36b02c5e1ad4bba91339b8a817a97243/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="" tvg-id="0" group-title="CANAIS", HBO PLUS*E
-https://cdnfe1.azureedge.net/hls1/hboplus-664265.ts
+#EXTINF:-1 tvg-logo="" tvg-id="0" group-title="CANAIS", HBO fAMI
+http://edge.aovivoplayer.ml/hls/s:95.216.15.44:81/hbofamily_536fb693_4e7e51390d8da4bd18c1397fe01e933e5de4ef47/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="" tvg-id="0" group-title="CANAIS", FOX LIFE HD
+####EXTINF:-1 tvg-logo="" tvg-id="0" group-title="CANAIS", FOX LIFE HD
 http://edge.aovivoplayer.ml/hls/s:95.216.15.44:81/foxlife_66435217_1ec4bffde9586c74afaf71254bdbbb8b4d83651b-16.ts
 
 #EXTINF:-1 tvg-logo="" tvg-id="0" group-title="CANAIS", FX
-http://edge.aovivoplayer.ml/hls/s:95.216.15.44:81/fx_667be543_648a4afa4f72f9103d0ee4f328dfb28219fbe635/playlist.m3u8
+http://edge.aovivoplayer.ml/hls/s:45.32.217.66/fx_667be543_a2e611463ec67a1c2d42811b5cb159d332950275/720p/chunklist.m3u8
 
-#EXTINF:-1 tvg-logo="" tvg-id="0" group-title="CANAIS", UNIVERSAL
-http://edge.aovivoplayer.ml/hls/s:155.138.227.156/universalchannel_8290abc6_ac25e4cd89ac72650d002b646825f6940778d23e/playlist.m3u8
+
 
 #EXTINF:-1 tvg-logo="" tvg-id="0" group-title="CANAIS", A&E
-http://edge.aovivoplayer.ml/hls/s:95.216.15.44:81/aemundo_c28aca23_093c618f9e63fcc6f3570c91dcadfb2516f44b3c/playlist.m3u8
+http://edge.aovivoplayer.ml/hls/s:95.216.15.44:81/aemundo_c28aca23_4e1558618a2932c7f7217fa675173e3b06bbb0b1/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="" tvg-id="0" group-title="CANAIS", SONY
-http://edge.aovivoplayer.ml/hls/s:155.138.227.156/sony_06349be7_034672cf132166ef4ed6ef7b7154588cd93e591d/410p/chunklist.m3u8
+#EXTINF:-1 tvg-logo="" tvg-id="0" group-title="CANAIS", SPACE
+http://edge.aovivoplayer.ml/hls/s:95.216.15.44:81/space_e6c3dd63_56e3cb02a02c82f6e445ae82ccf73799e9e7b3f5/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="" tvg-id="0" group-title="CANAIS", BOOMERANG
-http://edge.aovivoplayer.ml/hls/s:95.216.15.44:81/boomerang_2659fc51_c720f9161dbbe43e849e660f9d8935c502cb1e8d/playlist.m3u8
+http://edge.aovivoplayer.ml/hls/s:95.216.15.44:81/boomerang_2659fc51_ab2e3aaf2fe1a3db6f9f076de5a7df7e2c9febff/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="" tvg-id="0" group-title="CANAIS", CINE+ SD
 https://5c49cd60dfe56.streamlock.net:6443/cinemais/live/chunklist_w121710937.m3u8
 
 
 #EXTINF:-1 tvg-logo="" tvg-id="0" group-title="CANAIS", AXN
-http://edge.aovivoplayer.ml/hls/s:155.138.226.22/axn_cb7a1d77_7a9d499be3b44a58e12f67adfa26234c85d3e2a3/480p/chunklist.m3u8
+http://edge.aovivoplayer.ml/hls/s:155.138.227.45/axn_cb7a1d77_d8605e8b15cb6684a59d9cd2b7bb0c2a9e91b47d/480p/chunklist.m3u8
 
 #EXTINF:-1 tvg-logo="" tvg-id="0" group-title="CANAIS", UNIVERSAL CHANNEL
-http://edge.aovivoplayer.ml/hls/s:155.138.227.156/universalchannel_8290abc6_ac25e4cd89ac72650d002b646825f6940778d23e/360p/chunklist.m3u8
+http://edge.aovivoplayer.ml/hls/s:155.138.227.45/universalchannel_8290abc6_9d944878636467594061a0a5858e668c15784487/360p/chunklist.m3u8
+
+#EXTINF:-1 tvg-logo="" tvg-id="0" group-title="CANAIS", STUDIO UNIVERSAL
+http://edge.aovivoplayer.ml/hls/s:95.216.15.44:81/studiouniversal_8b4753ed_ae50e44d58e7833543fff218fad446c9b063ce67.m3u8
+
+#EXTINF:-1 tvg-logo="" tvg-id="0" group-title="CANAIS", SONY
+http://edge.aovivoplayer.ml/hls/s:155.138.227.156/sony_06349be7_49e0b6008a97126e70c99034c2284e218ec87da1/410p/chunklist.m3u8
+
+#EXTINF:-1 tvg-logo="" tvg-id="0" group-title="CANAIS", TNT
+http://edge.aovivoplayer.ml/hls/s:95.216.15.44:81/tnt_9109c85a_ef654007749ad0c428b7a33d7a3a3194020477c6/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="" tvg-id="0" group-title="CANAIS", FOX
+http://edge.aovivoplayer.ml/hls/s:95.216.15.44:81/fox_5a5b0f9b_292ede95dd741d57e100bbd19c32ca1764b36339/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="" tvg-id="0" group-title="CANAIS", TCM
+http://edge.aovivoplayer.ml/hls/s:45.32.217.66/tcm_13b72490_c93abbe7fd33d1aec4aad9718c1d6818a404fdfb/410p/chunklist.m3u8
+
+#EXTINF:-1 tvg-logo="" tvg-id="0" group-title="CANAIS", VIVA
+http://edge.aovivoplayer.ml/hls/s:95.216.15.44:81/viva_5d00f2c6_61d608f7ad1974c8047c0b2843ea34528528b6a6/playlist.m3u8
+
+
+
+
+
+
+
 
 #EXTINF:-1 tvg-logo="" tvg-id="0" group-title="CANAIS", ANIMAL PLANET
-http://edge.aovivoplayer.ml/hls/s:155.138.227.156/animalplanet_e114c448_9e9c6c2485ab99f5d7a6a852075e3908950b6746/480p_1070kbit/chunklist.m3u8
+http://edge.aovivoplayer.ml/hls/s:45.32.217.66/animalplanet_e114c448_56b3361865b28e4325245d1e2e25416a079517b4/480p/chunklist.m3u8
 
 #EXTINF:-1 tvg-logo="" tvg-id="0" group-title="CANAIS", DISCOVERY CHANNEL
-http://edge.aovivoplayer.ml/hls/s:45.32.217.66/discoverychannel_af3e1334_d131c0cf293c4eb3f86f070a58d66382426cf016/480p/chunklist.m3u8
+http://edge.aovivoplayer.ml/hls/s:155.138.227.45/discoverychannel_af3e1334_3c1e385cf3e1474e893ba0949f1636d88ad30044/480p/chunklist.m3u8
 
 #EXTINF:-1 tvg-logo="" tvg-id="0" group-title="CANAIS", DISCOVERY TURBO
-http://edge.aovivoplayer.ml/hls/s:155.138.227.45/discoveryturbo_ca3512f4_c7fe0bed944da2891e25b8b02b6857f238c52566/480p/chunklist.m3u8
+http://edge.aovivoplayer.ml/hls/s:155.138.227.156/discoveryturbo_ca3512f4_39df3f7648d4df97bf23b09c29b1dc4090dc9dc0/480p/chunklist.m3u8
+
+
+#EXTINF:-1 tvg-logo="" tvg-id="0" group-title="CANAIS", DISCOVERY THEATER HD
+http://edge.aovivoplayer.ml/hls/s:95.216.15.44:81/discoverytheater_904f2cc1_e5a8c4ec60498a0cf26d0d529cd3bc9dabb02566.m3u8
+
 
 
 #EXTINF:-1 tvg-logo="" tvg-id="0" group-title="CANAIS", HISTORY CHANNEL
-http://edge.aovivoplayer.ml/hls/s:155.138.227.156/history_b7eb6c68_4d57669237b307473c8347cf924e726d8885d526/410p/chunklist.m3u8
+http://edge.aovivoplayer.ml/hls/s:155.138.227.45/history_b7eb6c68_0970c8a79c5a17ee322d00700c86d8165b24f16b/410p/chunklist.m3u8
 
 #EXTINF:-1 tvg-logo="" tvg-id="0" group-title="CANAIS", HISTORY CHANNEL HD
-http://edge.aovivoplayer.ml/hls/s:155.138.226.22/historyopcao2_00a8a5c3_90a12d29b77bd9791a0ad38119b6ee5886f9efc2/playlist.m3u8
+http://edge.aovivoplayer.ml/hls/s:45.32.217.66/historyopcao2_00a8a5c3_d96079b5907b5d6a1203a266180fa0be1d389e6a/410p/chunklist.m3u8
+
+#EXTINF:-1 tvg-logo="" tvg-id="0" group-title="CANAIS", HISTORY CHANNEL 2
+http://edge.aovivoplayer.ml/hls/s:95.216.15.44:81/h2_2bfba6b3_e0125d6eac9797e494ca44a76e0a8ad431bcfb26.m3u8
+
 
 #EXTINF:-1 tvg-logo="" tvg-id="0" group-title="CANAIS", NATIONAL GEOGRAPHIC
-http://edge.aovivoplayer.ml/hls/s:155.138.227.156/nationalgeographic_2e01e174_396a256ff089a6bec5e1d4562ebb3c7033ff36ea/720p/chunklist.m3u8
+http://edge.aovivoplayer.ml/hls/s:155.138.227.156/nationalgeographic_2e01e174_35e2e7534475a0dbfc4401238bbdabb28cc12e70/720p/chunklist.m3u8
+
 
 #EXTINF:-1 tvg-logo="" tvg-id="0" group-title="CANAIS", NATGEO WILD
-http://edge.aovivoplayer.ml/hls/s:155.138.227.45/natgeowild_e4dd8a3f_34e2b5c5d75c39549053085d4e98accdb458a9bf/480p/chunklist.m3u8
+http://edge.aovivoplayer.ml/hls/s:45.32.217.66/natgeowild_e4dd8a3f_fcf0187d8e2d39824abd06e32f4df630a43c787b/480p/chunklist.m3u8
 
 
 #EXTINF:-1 tvg-logo="" tvg-id="0" group-title="CANAIS", TLC
@@ -133,38 +185,47 @@ http://edge.aovivoplayer.ml/hls/s:155.138.226.22/gnt_c439c60b_c0bd0331eed97e9578
 #EXTINF:-1 tvg-logo="" tvg-id="0" group-title="CANAIS", -ESPORTES
 
 #EXTINF:-1 tvg-logo="" tvg-id="0" group-title="CANAIS", COMBAT
-http://edge.aovivoplayer.ml/hls/s:95.216.15.44:81/combate_ac3478d6_75e956a8e6a68965d17b07036aea252c819c3421/playlist.m3u8
+http://edge.aovivoplayer.ml/hls/s:95.216.15.44:81/combate_ac3478d6_3be6a303825e484a93a7cce7437443382a827666/playlist.m3u8
+
+
+
 
 #EXTINF:-1 tvg-logo="" tvg-id="0" group-title="CANAIS", Cartoon Gospel
 https://stmv1.srvstm.com/gospelcartoon/gospelcartoon/playlist.m3u8?wowzasessionid=495096105
 
 
 #EXTINF:-1 tvg-logo="" tvg-id="0" group-title="CANAIS", Cartoon NetWork
-http://edge.aovivoplayer.ml/hls/s:155.138.227.45/cartoonnetwork_511a418e_919f62e2df4507b1026090d244fe5ba636a0e3eb/410p/chunklist.m3u8
+http://edge.aovivoplayer.ml/hls/s:155.138.227.156/cartoonnetwork_511a418e_7e5300088069c955a83b5eb02c07f6970e9af5fb/410p/chunklist.m3u8
+
 
 #EXTINF:-1 tvg-logo="" tvg-id="0" group-title="CANAIS", DISNEY CHANNEL
-http://edge.aovivoplayer.ml/hls/s:155.138.227.156/disneychannel_a9334987_59b9513140893606731cd60d759b71630ed6551a/410p/chunklist.m3u8
+http://edge.aovivoplayer.ml/hls/s:155.138.227.156/disneychannel_a9334987_925eef7e82cce1307d454e4329373d3bc3aaa811/410p/chunklist.m3u8
+
 
 #EXTINF:-1 tvg-logo="" tvg-id="0" group-title="CANAIS", DISNEY XD
-http://edge.aovivoplayer.ml/hls/s:155.138.227.156/disneyxd_d094700e_ca2cc8e163e38a30e920b7c0f9ea87fb09bdf6eb/playlist.m3u8
+http://edge.aovivoplayer.ml/hls/s:155.138.226.22/disneyxd_d094700e_49e5e798c49c5f66c8c04779e1ed61d5ed095093/410p/chunklist.m3u8
 
 #EXTINF:-1 tvg-logo="" tvg-id="0" group-title="CANAIS", DISNEY JUNIOR
-http://edge.aovivoplayer.ml/hls/s:155.138.227.156/disneyjunior_572e2073_ba3f4fe98ff0de287a4072c8cf94b53127ccaf7c/playlist.m3u8
+http://edge.aovivoplayer.ml/hls/s:155.138.227.45/disneyjunior_572e2073_c69f7633908f068cd362a1932a66ff4aa31c2d38/480p/chunklist.m3u8
 
 #EXTINF:-1 tvg-logo="" tvg-id="0" group-title="CANAIS", NICK JR
 http://edge.aovivoplayer.ml/hls/s:155.138.226.22/nickjr_54ceb912_1e4850b0f47cbef9fa1fe06cda4e0859c1271caa/playlist.m3u8
 
+
 #EXTINF:-1 tvg-logo="" tvg-id="0" group-title="CANAIS", NICKELONDEON
-http://edge.aovivoplayer.ml/hls/s:45.32.217.66/nickelodeon_bc33ea4e_aa8ab2dc58335bfbf53b424219fc87e9ab17839a/410p_700kbit/chunklist.m3u8
+http://edge.aovivoplayer.ml/hls/s:155.138.227.45/nickelodeon_bc33ea4e_73217443d56b69e409832a7a1a3078b0407e4a81/410p/chunklist.m3u8
+
 
 #EXTINF:-1 tvg-logo="" tvg-id="0" group-title="CANAIS", DISCOVERY KIDS
-http://edge.aovivoplayer.ml/hls/s:45.32.217.66/discoverykids_80e28a51_89f66d5300d066156a84f644adf820e37a125efb/playlist.m3u8
+http://edge.aovivoplayer.ml/hls/s:45.32.217.66/discoverykids_80e28a51_82e0698698db9efa62a711e715297f40131261ce/480p/chunklist.m3u8
 
 #EXTINF:-1 tvg-logo="" tvg-id="0" group-title="CANAIS", GLOOB
-http://edge.aovivoplayer.ml/hls/s:155.138.226.22/gloob_04f1241e_709ec23117173b92aa9721deb71ef780555699ad/410p/chunklist.m3u8
+http://edge.aovivoplayer.ml/hls/s:45.32.217.66/gloob_04f1241e_4779c5f153c65b4aaf080d37d2f8611bae4b2291/410p_780kbit/chunklist.m3u8
 
 #EXTINF:-1 tvg-logo="" tvg-id="0" group-title="CANAIS", TOONCAST
 http://edge.aovivoplayer.ml/hls/s:155.138.226.22/tooncast_8effee40_a8151753e0f0af37183798e9ff9bf623b71e729e/480p_700kbit/chunklist.m3u8
+
+
 
 
 
